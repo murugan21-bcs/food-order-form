@@ -1,5 +1,5 @@
 form {
-    background: gainsboro;
+    background: linear-gradient(purple,skyblue,lightgreen,pink,red,yellow);
 }
 
 .col-form-label {
